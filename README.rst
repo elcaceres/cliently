@@ -16,7 +16,7 @@ Cliently
 
 
 
-Cliently is a Python client to interact with hhh Feedly
+Cliently is a Python client to interact with Feedly
 
 
 * Free software: MIT license
